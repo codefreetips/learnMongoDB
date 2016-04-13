@@ -1,0 +1,10 @@
+{
+  "name": "LearnMongoDB",
+  "version": "0.0.0",
+  "description": "LearnMongoDB",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  }
+}
